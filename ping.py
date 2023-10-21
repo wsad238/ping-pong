@@ -1,5 +1,4 @@
 from pygame import *
-'''Необходимые классы'''
 
 #класс-родитель для спрайтов
 class GameSprite(sprite.Sprite):
